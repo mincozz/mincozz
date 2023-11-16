@@ -1,4 +1,4 @@
-![banner](text2.gif)
+
 
 # My skills
 
