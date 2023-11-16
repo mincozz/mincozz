@@ -1,16 +1,17 @@
-### Hi there 👋
+![banner](text2.gif)
 
-<!--
-**mincozz/mincozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My skills
 
-Here are some ideas to get you started:
+- **HTML**/**CSS** (proficient)
+- **Python**, **C** (proficient)
+- **Javascript**, **C++**, **Java** (moderate/learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### I recently finished my [pixel sorter](https://github.com/Nitaki-dev/pixel-sorter), come check it out!
+
+---
+
+You can contact me on Discord via @nitaki.
+
+<img align="right" src="https://komarev.com/ghpvc/?username=nitaki-dev&color=ff69b4">
