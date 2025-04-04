@@ -2,9 +2,10 @@
 
 # My skills
 
-- **HTML**/**CSS** (proficient)
-- **Python** (proficient)
-- **Javascript** (moderate/learning)
+- **HTML**/**CSS**
+- **Python**
+- **Javascript**
+- **C / C++**
 
 
 You can contact me on Discord via @mincozz.
