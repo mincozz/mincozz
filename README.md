@@ -1,13 +1,10 @@
 
+### Hi there 
 
-# My skills
+💻 Developer interested in web technologies and low-level programming.
 
-- **HTML**/**CSS**
-- **Python**
-- **Javascript**
-- **C / C++**
+**Skills:**  
+HTML · CSS · JavaScript · Python · C / C++
 
-
-You can contact me on Discord via @mincozz.
 
 ![](https://komarev.com/ghpvc/?username=mincozz)
