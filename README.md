@@ -1,7 +1,7 @@
 
 ### Hi there 
 
-💻 Developer interested in web technologies and low-level programming.
+Only low-level programming and DevOps
 
 **Skills:**  
 HTML · CSS · JavaScript · Python · C / C++
